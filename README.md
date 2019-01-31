@@ -1,4 +1,4 @@
-# Project 4: FEMA Power Outage Hotspot Tool
+# Client Project: FEMA Power Outage Hotspot Tool
 -----
 ### Problem Statement
 The goal of this project is to locate power outages in the United States using social media data. Within this repository, you will find a documented process for sourcing, cleaning, modeling, and interpreting Twitter data in a process that accomplishes this goal. The models and methods contained here are intended for use by FEMA for disaster relief within the United States, but we invite and encourage any organization that provides emergency relief to freely make use of this repository.  
