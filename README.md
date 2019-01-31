@@ -12,12 +12,12 @@ This project was completed in cooperation with [General Assembly](https://genera
 
 -----
 ### Project Files and Workflow
-- [1 Scraping Twitter Data](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/1_Data-Collection.ipynb)
-- [2 Data Cleaning Process](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/2_Data-Cleaning.ipynb)
-- [3 Exploratory Data Analysis](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/3_Exploratory-Data-Analysis.ipynb)
-- [4 Natural Language Processing and Modeling](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/4_Preprocessing-and-NLP-Modeling.ipynb)
-- [5 Geographically Visualizing Power Outages](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/5_Geospatial-Visualizations.ipynb)
-- [6.0 Presentation Slides](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/Presentation_Slides.pptx)
+- [1 Scraping Twitter Data](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/1_Data-Collection.ipynb)
+- [2 Data Cleaning Process](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/2_Data-Cleaning.ipynb)
+- [3 Exploratory Data Analysis](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/3_Exploratory-Data-Analysis.ipynb)
+- [4 Natural Language Processing and Modeling](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/4_Preprocessing-and-NLP-Modeling.ipynb)
+- [5 Geographically Visualizing Power Outages](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/5_Geospatial-Visualizations.ipynb)
+- [Presentation Slides](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/Presentation_Slides.pptx)
 
 -----
 # Executive Summary
@@ -32,23 +32,23 @@ In the remainder of this README file, we will outline the basic steps of our pro
 5. Geospatial Visualizations
 
 ### 1. Data Collection
-We resolved to use Twitter data for this version of this project.  In order to collect this data, we used a tried-and-true scraping method, purposely built into a scraping function for our data collection efforts in [1.0 Scraping Twitter Data](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/1_Data-Collection.ipynb).
+We resolved to use Twitter data for this version of this project.  In order to collect this data, we used a tried-and-true scraping method, purposely built into a scraping function for our data collection efforts in [1.0 Scraping Twitter Data](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/1_Data-Collection.ipynb).
 
 We encountered avoidable setbacks that will be explained below.  Our scraper is an implementation of the excellent [twitterscraper](https://pypi.org/project/twitterscraper/0.2.7/) package, tuned to return a body of Tweets containing specific words or terms and posted within a specified time frame.  Both the keywords and time frame are specified as arguments of the twitterscraper.query_tweets function.
 
 Our basic scraper relies on very few pre-filtering arguments and keywords by design.  In the future, it may be valuable to revise this and test the impact of tuning for more specific tweets, but this will be discussed later in "Proposed Next Steps". 
 
-As previously alluded to, our team encountered scraping issues with [this](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/1_Data-Collection.ipynb) scraping function.  Specifically, we very quickly overtaxed the Twitter API and were suspended from pulling more tweets. While this should not be a major issue for a user who runs this scraper only once, if a user were to repeatedly execute it, say, in the process of refining the pre-filtering terms for the scraper, he/she would quickly be banned from acquiring new data so be warned.
+As previously alluded to, our team encountered scraping issues with [this](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/1_Data-Collection.ipynb) scraping function.  Specifically, we very quickly overtaxed the Twitter API and were suspended from pulling more tweets. While this should not be a major issue for a user who runs this scraper only once, if a user were to repeatedly execute it, say, in the process of refining the pre-filtering terms for the scraper, he/she would quickly be banned from acquiring new data so be warned.
 
 ### 2. Data Cleaning
-In order to format our data into a useful and uniform set, we used a concise [cleaning process](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/2_Data-Cleaning.ipynb) and added some new data of our own.  
+In order to format our data into a useful and uniform set, we used a concise [cleaning process](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/2_Data-Cleaning.ipynb) and added some new data of our own.  
 
 The most noteworthy development in our data cleaning deserves some explanation here. While working on this project, our team quickly learned that Twitter does NOT keep usable location data in their .html structure or .json output. While the Twitter API does include fields to store the city of origin, account owner location, and even latitude and longitude of the user at the time a tweet is posted, these fields are almost universally blank or unhelpful.  This is probably either because Twitter had deprecated location tracking or many users choose to opt out, or a combination of these and other factors. The location data was so incomplete in our scraped data that we are forced in this section to randomly assign location data as a proof-of-concept.  **Consequently, the conclusions and data drawn from this point forward are purely demonstrative and are not informed by actual geographical data**.  
 
 The final step of our data cleaning process was to combine the scraped tweets and imputed cities with a data frame of all USA cities, including their coordinates, counties, etc. This data will help us in mapping and other efforts later on. 
 
 ### 3. Exploratory Data Analysis
-Our [EDA](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/3_Exploratory-Data-Analysis.ipynb) file begins the process by:
+Our [EDA](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/3_Exploratory-Data-Analysis.ipynb) file begins the process by:
 
 1. Reformatting the text of all scraped tweets
     - Removal of unusual characters/punctuation
@@ -60,7 +60,7 @@ Our [EDA](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/bl
 This process helped us to identify new keywords that might be helpful, eliminate some that were not, and pointed out some important improvements we could make in the future, which will be outlined later on.  
 
 ### 4. Preprocessing and Modeling
-Our workflow is laid out and explained in great detail [here](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/4_Preprocessing-and-NLP-Modeling.ipynb). We strongly recommend reading through it on a step-by-step basis within that file as the process is very meticulously yet concisely explained there. Here we merely provide a brief overview of this process.
+Our workflow is laid out and explained in great detail [here](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/4_Preprocessing-and-NLP-Modeling.ipynb). We strongly recommend reading through it on a step-by-step basis within that file as the process is very meticulously yet concisely explained there. Here we merely provide a brief overview of this process.
 
 As discussed previously, our current working data does not include meaningful geographical information for individual tweets, which prevents us from empirically identifying tweets that occurred during blackouts. Without a confirmed test set containing this information, our modeling options were extremely limited.  
 
@@ -69,7 +69,7 @@ We opted for a natural language processing approach, namely one that resembles s
 Our model was able to generate meaningful predictions of power-outage-likelihood for each individual tweet based on the language and 'sentiment' used in the tweets themselves.  
 
 ### 5. Geospatial Visualizations
-In this section, we used the geographic data we added and imputed in data cleaning, to generate heat maps that would help to identify "hotspots" of flagged power-outage related Twitter content. Our [mapping section](https://git.generalassemb.ly/boom-deva/project-4-FEMA-power-outages/blob/master/5_Geospatial-Visualizations.ipynb) uses [Bokeh](https://bokeh.pydata.org/en/latest/), an excellent library for interactive visualizations. 
+In this section, we used the geographic data we added and imputed in data cleaning, to generate heat maps that would help to identify "hotspots" of flagged power-outage related Twitter content. Our [mapping section](https://github.com/boom-deva/FEMA-Power-Outage-Hotspot-Detection/blob/master/5_Geospatial-Visualizations.ipynb) uses [Bokeh](https://bokeh.pydata.org/en/latest/), an excellent library for interactive visualizations. 
 
 Bokeh was useful here because we were able to create an interactive map that we believe will be of more use to our users than a static plot might have been.  In future updates, we envision a re-arrangement of our program that would enable very local searches for power-outage hotspots (for instance, within a county).  In this framework, the interactive mapping we have implemented will be useful for exploring the shape and extent of identified power outages.
 
