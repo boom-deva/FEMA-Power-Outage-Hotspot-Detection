@@ -1,0 +1,886 @@
+,city,state_id,state_name,county_name,lat,lng
+4681,New London,NH,New Hampshire,Merrimack,43.4139,-71.9844
+4682,Peterborough,NH,New Hampshire,Hillsborough,42.879,-71.9593
+4683,Union,NH,New Hampshire,Carroll,43.4913,-71.0233
+4684,Walpole,NH,New Hampshire,Cheshire,43.0792,-72.4236
+4685,Enfield,NH,New Hampshire,Grafton,43.6448,-72.148
+4686,Suncook,NH,New Hampshire,Merrimack,43.1382,-71.4528
+4687,Sanbornville,NH,New Hampshire,Carroll,43.5524,-71.03
+4688,Blodgett Landing,NH,New Hampshire,Merrimack,43.3757,-72.0392
+4689,Milford,NH,New Hampshire,Hillsborough,42.8327,-71.6612
+4690,Marlborough,NH,New Hampshire,Cheshire,42.905,-72.2116
+4691,Contoocook,NH,New Hampshire,Merrimack,43.2232,-71.7129
+4692,Newfields,NH,New Hampshire,Rockingham,43.0354,-70.9391
+4693,Pinardville,NH,New Hampshire,Hillsborough,43.001000000000005,-71.5171
+4694,North Sutton,NH,New Hampshire,Merrimack,43.364,-71.9395
+4695,Exeter,NH,New Hampshire,Rockingham,42.9776,-70.9466
+4696,South Hooksett,NH,New Hampshire,Merrimack,43.0337,-71.4254
+4697,Center Sandwich,NH,New Hampshire,Carroll,43.8085,-71.4396
+4698,Hancock,NH,New Hampshire,Hillsborough,42.974,-71.9807
+4699,Antrim,NH,New Hampshire,Hillsborough,43.0379,-71.946
+4700,Newport,NH,New Hampshire,Sullivan,43.367,-72.1766
+4701,West Stewartstown,NH,New Hampshire,Coos,44.9906,-71.5309
+4702,Keene,NH,New Hampshire,Cheshire,42.9496,-72.2997
+4703,Georges Mills,NH,New Hampshire,Sullivan,43.4317,-72.0673
+4704,Concord,NH,New Hampshire,Merrimack,43.2307,-71.5595
+4705,Belmont,NH,New Hampshire,Belknap,43.443000000000005,-71.47800000000001
+4706,Twin Mountain,NH,New Hampshire,Coos,44.2723,-71.539
+4707,Durham,NH,New Hampshire,Strafford,43.1413,-70.9228
+4708,Manchester,NH,New Hampshire,Hillsborough,42.9844,-71.4445
+4709,Glen,NH,New Hampshire,Carroll,44.1101,-71.1826
+4710,North Haverhill,NH,New Hampshire,Grafton,44.0938,-72.0272
+4711,Rochester,NH,New Hampshire,Strafford,43.2991,-70.9791
+4712,Winchester,NH,New Hampshire,Cheshire,42.777,-72.3851
+4713,Wilton,NH,New Hampshire,Hillsborough,42.847,-71.7359
+4714,Bennington,NH,New Hampshire,Hillsborough,43.0035,-71.9207
+4715,Melvin Village,NH,New Hampshire,Carroll,43.6894,-71.3033
+4716,Pittsfield,NH,New Hampshire,Merrimack,43.3001,-71.3314
+4717,Wolfeboro,NH,New Hampshire,Carroll,43.5913,-71.2092
+4718,Claremont,NH,New Hampshire,Sullivan,43.379,-72.3368
+4719,Troy,NH,New Hampshire,Cheshire,42.8258,-72.1828
+4720,East Merrimack,NH,New Hampshire,Hillsborough,42.8669,-71.484
+4721,Berlin,NH,New Hampshire,Coos,44.4871,-71.2601
+4722,Newmarket,NH,New Hampshire,Rockingham,43.0754,-70.9392
+4723,Milton Mills,NH,New Hampshire,Strafford,43.5037,-70.9654
+4724,Hooksett,NH,New Hampshire,Merrimack,43.0942,-71.4571
+4725,North Conway,NH,New Hampshire,Carroll,44.0525,-71.1248
+4726,Hinsdale,NH,New Hampshire,Cheshire,42.7888,-72.4888
+4727,Warner,NH,New Hampshire,Merrimack,43.2843,-71.824
+4728,Portsmouth,NH,New Hampshire,Rockingham,43.058,-70.7826
+4729,Groveton,NH,New Hampshire,Coos,44.6048,-71.5201
+4730,Londonderry,NH,New Hampshire,Rockingham,42.8508,-71.3617
+4731,Epping,NH,New Hampshire,Rockingham,43.0345,-71.0902
+4732,Whitefield,NH,New Hampshire,Coos,44.3715,-71.6104
+4733,Amherst,NH,New Hampshire,Hillsborough,42.8637,-71.6239
+4734,Derry,NH,New Hampshire,Rockingham,42.8942,-71.2845
+4735,Greenville,NH,New Hampshire,Hillsborough,42.7728,-71.8013
+4736,Center Ossipee,NH,New Hampshire,Carroll,43.7543,-71.1514
+4737,Hampton Beach,NH,New Hampshire,Rockingham,42.9142,-70.8128
+4738,Somersworth,NH,New Hampshire,Strafford,43.2534,-70.8856
+4739,Winona,NH,New Hampshire,Belknap,43.6662,-71.5581
+4740,Littleton,NH,New Hampshire,Grafton,44.3211,-71.7637
+4741,Bartlett,NH,New Hampshire,Carroll,44.0734,-71.282
+4742,Colebrook,NH,New Hampshire,Coos,44.8945,-71.4952
+4743,Dover,NH,New Hampshire,Strafford,43.1887,-70.8845
+4744,Bradford,NH,New Hampshire,Merrimack,43.2716,-71.9628
+4745,Lincoln,NH,New Hampshire,Grafton,44.0555,-71.6706
+4746,Meredith,NH,New Hampshire,Belknap,43.6581,-71.5044
+4747,Laconia,NH,New Hampshire,Belknap,43.5727,-71.4777
+4748,New Hampton,NH,New Hampshire,Belknap,43.6096,-71.6509
+4749,Franklin,NH,New Hampshire,Merrimack,43.45,-71.6689
+4750,Charlestown,NH,New Hampshire,Sullivan,43.2366,-72.4242
+4751,Conway,NH,New Hampshire,Carroll,43.9846,-71.1182
+4752,North Woodstock,NH,New Hampshire,Grafton,44.0364,-71.6895
+4753,Lebanon,NH,New Hampshire,Grafton,43.6353,-72.2531
+4754,Canaan,NH,New Hampshire,Grafton,43.6503,-72.0159
+4755,Seabrook Beach,NH,New Hampshire,Rockingham,42.8852,-70.8236
+4756,Bethlehem,NH,New Hampshire,Grafton,44.2792,-71.6881
+4757,Lancaster,NH,New Hampshire,Coos,44.4894,-71.575
+4758,Farmington,NH,New Hampshire,Strafford,43.3999,-71.0727
+4759,Hudson,NH,New Hampshire,Hillsborough,42.7639,-71.4314
+4760,North Walpole,NH,New Hampshire,Cheshire,43.1469,-72.4459
+4761,Henniker,NH,New Hampshire,Merrimack,43.1815,-71.8188
+4762,Plainfield,NH,New Hampshire,Sullivan,43.5343,-72.3536
+4763,Goffstown,NH,New Hampshire,Hillsborough,43.0212,-71.5993
+4764,Loudon,NH,New Hampshire,Merrimack,43.2828,-71.4647
+4765,Jaffrey,NH,New Hampshire,Cheshire,42.8125,-72.0237
+4766,West Swanzey,NH,New Hampshire,Cheshire,42.871,-72.3225
+4767,Raymond,NH,New Hampshire,Rockingham,43.0333,-71.1714
+4768,Alton,NH,New Hampshire,Belknap,43.4565,-71.2217
+4769,Milton,NH,New Hampshire,Strafford,43.4036,-70.9899
+4770,Hanover,NH,New Hampshire,Grafton,43.7068,-72.2774
+4771,Woodsville,NH,New Hampshire,Grafton,44.1452,-72.0287
+4772,Plymouth,NH,New Hampshire,Grafton,43.7413,-71.6935
+4773,Bristol,NH,New Hampshire,Grafton,43.6005,-71.7404
+4774,Ashland,NH,New Hampshire,Grafton,43.6961,-71.6335
+4775,North Stratford,NH,New Hampshire,Coos,44.7517,-71.6287
+4776,Hampton,NH,New Hampshire,Rockingham,42.9428,-70.8261
+4777,Nashua,NH,New Hampshire,Hillsborough,42.7492,-71.491
+4778,Mountain Lakes,NH,New Hampshire,Grafton,44.1206,-71.958
+4779,Lisbon,NH,New Hampshire,Grafton,44.2125,-71.9087
+4780,Rye Beach,NH,New Hampshire,Rockingham,42.9768,-70.7656
+4781,Gorham,NH,New Hampshire,Coos,44.3922,-71.1851
+19761,Albany,VT,Vermont,Orleans,44.7302,-72.381
+19762,Arlington,VT,Vermont,Bennington,43.0691,-73.1475
+19763,Barnet,VT,Vermont,Caledonia,44.2956,-72.0496
+19764,Groton,VT,Vermont,Caledonia,44.214,-72.1968
+19765,Barre,VT,Vermont,Washington,44.1997,-72.5083
+19766,Shelburne,VT,Vermont,Chittenden,44.3759,-73.2265
+19767,West Pawlet,VT,Vermont,Rutland,43.3537,-73.2521
+19768,Chelsea,VT,Vermont,Orange,43.9871,-72.4522
+19769,Irasburg,VT,Vermont,Orleans,44.8002,-72.2849
+19770,Waterbury,VT,Vermont,Washington,44.3429,-72.7429
+19771,East Montpelier,VT,Vermont,Washington,44.2695,-72.4881
+19772,Saxtons River,VT,Vermont,Windham,43.138999999999996,-72.5101
+19773,Winooski,VT,Vermont,Chittenden,44.4951,-73.1842
+19774,Island Pond,VT,Vermont,Essex,44.8125,-71.8862
+19775,Manchester Center,VT,Vermont,Bennington,43.1822,-73.0362
+19776,Cavendish,VT,Vermont,Windsor,43.3863,-72.6065
+19777,West Topsham,VT,Vermont,Orange,44.1151,-72.3118
+19778,Newport,VT,Vermont,Orleans,44.9375,-72.2088
+19779,Northfield,VT,Vermont,Washington,44.1531,-72.6557
+19780,North Bennington,VT,Vermont,Bennington,42.924,-73.2411
+19781,Perkinsville,VT,Vermont,Windsor,43.3708,-72.5159
+19782,Concord,VT,Vermont,Essex,44.4323,-71.8863
+19783,Montpelier,VT,Vermont,Washington,44.2658,-72.5717
+19784,Plainfield,VT,Vermont,Washington,44.2766,-72.42699999999999
+19785,Troy,VT,Vermont,Orleans,44.909,-72.4046
+19786,Manchester,VT,Vermont,Bennington,43.161,-73.0709
+19787,North Wolcott,VT,Vermont,Lamoille,44.6112,-72.4604
+19788,Windsor,VT,Vermont,Windsor,43.4799,-72.3936
+19789,Brattleboro,VT,Vermont,Windham,42.8588,-72.5628
+19790,Rochester,VT,Vermont,Windsor,43.8743,-72.8052
+19791,Jeffersonville,VT,Vermont,Lamoille,44.6427,-72.8282
+19792,Beecher Falls,VT,Vermont,Essex,45.00899999999999,-71.4935
+19793,Bennington,VT,Vermont,Bennington,42.8746,-73.1852
+19794,Brandon,VT,Vermont,Rutland,43.8011,-73.0843
+19795,East Barre,VT,Vermont,Washington,44.1498,-72.4498
+19796,Williamstown,VT,Vermont,Orange,44.1218,-72.5427
+19797,Burlington,VT,Vermont,Chittenden,44.4877,-73.2314
+19798,South Shaftsbury,VT,Vermont,Bennington,42.9411,-73.202
+19799,Lyndonville,VT,Vermont,Caledonia,44.5352,-72.0016
+19800,Waitsfield,VT,Vermont,Washington,44.19,-72.8246
+19801,Stowe,VT,Vermont,Lamoille,44.4662,-72.6853
+19802,Websterville,VT,Vermont,Washington,44.1617,-72.4722
+19803,Saint Albans,VT,Vermont,Franklin,44.8119,-73.0846
+19804,Wilder,VT,Vermont,Windsor,43.673,-72.3109
+19805,South Royalton,VT,Vermont,Windsor,43.8123,-72.5156
+19806,East Burke,VT,Vermont,Caledonia,44.5875,-71.9403
+19807,Jericho,VT,Vermont,Chittenden,44.5049,-72.9878
+19808,Johnson,VT,Vermont,Lamoille,44.6366,-72.6786
+19809,West Burke,VT,Vermont,Caledonia,44.6431,-71.9792
+19810,Castleton,VT,Vermont,Rutland,43.6054,-73.1853
+19811,Morrisville,VT,Vermont,Lamoille,44.5583,-72.5933
+19812,Barton,VT,Vermont,Orleans,44.7481,-72.1753
+19813,Chester,VT,Vermont,Windsor,43.2648,-72.5935
+19814,Derby Line,VT,Vermont,Orleans,45.0008,-72.1034
+19815,Cambridge,VT,Vermont,Lamoille,44.638999999999996,-72.8788
+19816,Derby Center,VT,Vermont,Orleans,44.955,-72.1361
+19817,South Burlington,VT,Vermont,Chittenden,44.4622,-73.2203
+19818,Newport Center,VT,Vermont,Orleans,44.9509,-72.3042
+19819,Glover,VT,Vermont,Orleans,44.7077,-72.1934
+19820,Orleans,VT,Vermont,Orleans,44.8092,-72.2013
+19821,Hinesburg,VT,Vermont,Chittenden,44.3299,-73.1062
+19822,Quechee,VT,Vermont,Windsor,43.6445,-72.4184
+19823,Middlebury,VT,Vermont,Addison,44.0079,-73.1575
+19824,West Brattleboro,VT,Vermont,Windham,42.8558,-72.6017
+19825,Woodstock,VT,Vermont,Windsor,43.6257,-72.5167
+19826,Fairfield,VT,Vermont,Franklin,44.802,-72.9457
+19827,Richmond,VT,Vermont,Chittenden,44.4076,-72.9965
+19828,Enosburg Falls,VT,Vermont,Franklin,44.9083,-72.8029
+19829,Fairlee,VT,Vermont,Orange,43.898999999999994,-72.1546
+19830,South Barre,VT,Vermont,Washington,44.1646,-72.5038
+19831,North Westminster,VT,Vermont,Windham,43.1219,-72.4555
+19832,Essex Junction,VT,Vermont,Chittenden,44.4903,-73.11399999999999
+19833,White River Junction,VT,Vermont,Windsor,43.6496,-72.3239
+19834,Newbury,VT,Vermont,Orange,44.0812,-72.0594
+19835,North Hartland,VT,Vermont,Windsor,43.5936,-72.3578
+19836,Bethel,VT,Vermont,Windsor,43.8312,-72.6365
+19837,Poultney,VT,Vermont,Rutland,43.5182,-73.2361
+19838,Alburg,VT,Vermont,Grand Isle,44.975,-73.3001
+19839,Readsboro,VT,Vermont,Bennington,42.7683,-72.949
+19840,North Springfield,VT,Vermont,Windsor,43.33,-72.5263
+19841,East Middlebury,VT,Vermont,Addison,43.9747,-73.1056
+19842,Benson,VT,Vermont,Rutland,43.7072,-73.3094
+19843,Bradford,VT,Vermont,Orange,43.9961,-72.1265
+19844,East Randolph,VT,Vermont,Orange,43.9401,-72.5551
+19845,Proctorsville,VT,Vermont,Windsor,43.3824,-72.6415
+19846,Rutland,VT,Vermont,Rutland,43.6091,-72.9782
+19847,Fairfax,VT,Vermont,Franklin,44.6695,-73.0106
+19848,Greensboro,VT,Vermont,Orleans,44.577,-72.3021
+19849,Dorset,VT,Vermont,Bennington,43.2551,-73.101
+19850,Hyde Park,VT,Vermont,Lamoille,44.596000000000004,-72.6123
+19851,Worcester,VT,Vermont,Washington,44.3716,-72.5497
+19852,Canaan,VT,Vermont,Essex,45.0044,-71.5344
+19853,West Dover,VT,Vermont,Windham,42.9392,-72.8529
+19854,West Rutland,VT,Vermont,Rutland,43.5972,-73.0451
+19855,Putney,VT,Vermont,Windham,42.9757,-72.5255
+19856,Newfane,VT,Vermont,Windham,42.9875,-72.6549
+19857,Westminster,VT,Vermont,Windham,43.0739,-72.4551
+19858,Cabot,VT,Vermont,Washington,44.4049,-72.3116
+19859,Danville,VT,Vermont,Caledonia,44.4105,-72.1409
+19860,Fair Haven,VT,Vermont,Rutland,43.5928,-73.2694
+19861,Springfield,VT,Vermont,Windsor,43.2888,-72.4758
+19862,Lowell,VT,Vermont,Orleans,44.7951,-72.4449
+19863,Old Bennington,VT,Vermont,Bennington,42.8848,-73.2143
+19864,Hartland,VT,Vermont,Windsor,43.5425,-72.4001
+19865,Marshfield,VT,Vermont,Washington,44.3519,-72.3521
+19866,Norwich,VT,Vermont,Windsor,43.7202,-72.3018
+19867,Ascutney,VT,Vermont,Windsor,43.4079,-72.407
+19868,Wells,VT,Vermont,Rutland,43.4209,-73.2074
+19869,North Troy,VT,Vermont,Orleans,44.9963,-72.4038
+19870,Vergennes,VT,Vermont,Addison,44.1664,-73.2555
+19871,Jacksonville,VT,Vermont,Windham,42.7976,-72.8192
+19872,Milton,VT,Vermont,Chittenden,44.6352,-73.1155
+19873,Hardwick,VT,Vermont,Caledonia,44.5022,-72.3653
+19874,Swanton,VT,Vermont,Franklin,44.9213,-73.1201
+19875,Coventry,VT,Vermont,Orleans,44.86600000000001,-72.2679
+19876,Wilmington,VT,Vermont,Windham,42.8717,-72.8677
+19877,Ludlow,VT,Vermont,Windsor,43.3973,-72.6969
+19878,Bellows Falls,VT,Vermont,Windham,43.1344,-72.455
+19879,Bristol,VT,Vermont,Addison,44.1383,-73.0874
+19880,Richford,VT,Vermont,Franklin,44.9952,-72.6648
+19881,Saint Johnsbury,VT,Vermont,Caledonia,44.4287,-72.0116
+19882,Wallingford,VT,Vermont,Rutland,43.4749,-72.9675
+19883,Pittsford,VT,Vermont,Rutland,43.7068,-73.029
+19884,Graniteville,VT,Vermont,Washington,44.1463,-72.4818
+19885,Greensboro Bend,VT,Vermont,Orleans,44.5583,-72.2642
+19886,Randolph,VT,Vermont,Orange,43.9273,-72.6728
+19887,Wells River,VT,Vermont,Orange,44.1537,-72.0617
+25964,Bantam,CT,Connecticut,Litchfield,41.7247,-73.2422
+25965,South Windham,CT,Connecticut,Windham,41.6849,-72.1845
+25966,South Woodstock,CT,Connecticut,Windham,41.9275,-71.9627
+25967,Torrington,CT,Connecticut,Litchfield,41.8349,-73.1282
+25968,Kensington,CT,Connecticut,Hartford,41.6298,-72.7714
+25969,New London,CT,Connecticut,New London,41.3502,-72.1023
+25970,Thompsonville,CT,Connecticut,Hartford,41.9916,-72.5965
+25971,Greens Farms,CT,Connecticut,Fairfield,41.123999999999995,-73.3193
+25972,Milford,CT,Connecticut,New Haven,41.2223,-73.0565
+25973,Coventry Lake,CT,Connecticut,Tolland,41.7736,-72.3287
+25974,Waterbury,CT,Connecticut,New Haven,41.5583,-73.0361
+25975,Newtown,CT,Connecticut,Fairfield,41.4119,-73.312
+25976,Noank,CT,Connecticut,New London,41.333999999999996,-71.9978
+25977,Greenfield Hill,CT,Connecticut,Fairfield,41.1765,-73.2918
+25978,Norfolk,CT,Connecticut,Litchfield,41.993,-73.1955
+25979,Cannondale,CT,Connecticut,Fairfield,41.2161,-73.4248
+25980,Oakville,CT,Connecticut,Litchfield,41.5923,-73.0858
+25981,Titicus,CT,Connecticut,Fairfield,41.2923,-73.5035
+25982,Shelton,CT,Connecticut,Fairfield,41.306000000000004,-73.1383
+25983,Moodus,CT,Connecticut,Middlesex,41.5043,-72.449
+25984,New Britain,CT,Connecticut,Hartford,41.6758,-72.7862
+25985,Baltic,CT,Connecticut,New London,41.614,-72.0866
+25986,Groton,CT,Connecticut,New London,41.339,-72.0727
+25987,Broad Brook,CT,Connecticut,Hartford,41.9097,-72.5426
+25988,Durham,CT,Connecticut,Middlesex,41.4741,-72.6814
+25989,Manchester,CT,Connecticut,Hartford,41.7801,-72.5192
+25990,Darien,CT,Connecticut,Fairfield,41.0786,-73.4819
+25991,Poquonock Bridge,CT,Connecticut,New London,41.3379,-72.0175
+25992,Old Greenwich,CT,Connecticut,Fairfield,41.0253,-73.5691
+25993,Heritage Village,CT,Connecticut,New Haven,41.4845,-73.2351
+25994,Wauregan,CT,Connecticut,Windham,41.75,-71.9091
+25995,West Mystic,CT,Connecticut,New London,41.3507,-71.982
+25996,City of Milford (balance),CT,Connecticut,New Haven,41.2253,-73.0624
+25997,Moosup,CT,Connecticut,Windham,41.7169,-71.875
+25998,Orange,CT,Connecticut,New Haven,41.2827,-73.0272
+25999,Naugatuck,CT,Connecticut,New Haven,41.489,-73.0518
+26000,Windsor Locks,CT,Connecticut,Hartford,41.9267,-72.6544
+26001,Pemberwick,CT,Connecticut,Fairfield,41.0224,-73.6564
+26002,Blue Hills,CT,Connecticut,Hartford,41.8134,-72.6954
+26003,Putnam,CT,Connecticut,Windham,41.9198,-71.9088
+26004,Gales Ferry,CT,Connecticut,New London,41.4212,-72.0858
+26005,Suffield Depot,CT,Connecticut,Hartford,41.983000000000004,-72.6463
+26006,Canton Valley,CT,Connecticut,Hartford,41.8316,-72.8978
+26007,Higganum,CT,Connecticut,Middlesex,41.49,-72.5562
+26008,Ridgefield,CT,Connecticut,Fairfield,41.2712,-73.4953
+26009,Quinebaug,CT,Connecticut,Windham,42.0107,-71.937
+26010,New Milford,CT,Connecticut,Litchfield,41.5844,-73.4064
+26011,Colchester,CT,Connecticut,New London,41.5779,-72.3329
+26012,Jewett City,CT,Connecticut,New London,41.607,-71.9807
+26013,Southport,CT,Connecticut,Fairfield,41.1349,-73.2874
+26014,Niantic,CT,Connecticut,New London,41.3265,-72.1949
+26015,Storrs,CT,Connecticut,Tolland,41.8045,-72.2552
+26016,Bridgeport,CT,Connecticut,Fairfield,41.1909,-73.1958
+26017,Willimantic,CT,Connecticut,Windham,41.7153,-72.2173
+26018,Watertown,CT,Connecticut,Litchfield,41.6018,-73.1195
+26019,Lake Pocotopaug,CT,Connecticut,Middlesex,41.5961,-72.5124
+26020,Newington,CT,Connecticut,Hartford,41.687,-72.7308
+26021,Plantsville,CT,Connecticut,Hartford,41.5832,-72.8915
+26022,Clinton,CT,Connecticut,Middlesex,41.2763,-72.5305
+26023,Groton Long Point,CT,Connecticut,New London,41.3145,-72.0087
+26024,Mystic,CT,Connecticut,New London,41.3573,-71.9548
+26025,Trumbull,CT,Connecticut,Fairfield,41.2602,-73.2083
+26026,Collinsville,CT,Connecticut,Hartford,41.818999999999996,-72.922
+26027,Wethersfield,CT,Connecticut,Hartford,41.7013,-72.6703
+26028,Stratford,CT,Connecticut,Fairfield,41.207,-73.1305
+26029,North Grosvenor Dale,CT,Connecticut,Windham,41.9862,-71.9034
+26030,Falls Village,CT,Connecticut,Litchfield,41.9576,-73.3562
+26031,Norwalk,CT,Connecticut,Fairfield,41.1144,-73.4215
+26032,Greenwich,CT,Connecticut,Fairfield,41.0252,-73.6298
+26033,Crystal Lake,CT,Connecticut,Tolland,41.9343,-72.3756
+26034,Middletown,CT,Connecticut,Middlesex,41.5476,-72.6549
+26035,Tariffville,CT,Connecticut,Hartford,41.9076,-72.7681
+26036,Meriden,CT,Connecticut,New Haven,41.5367,-72.7943
+26037,Stonington,CT,Connecticut,New London,41.3344,-71.9033
+26038,Riverside,CT,Connecticut,Fairfield,41.0319,-73.5827
+26039,Terramuggus,CT,Connecticut,Hartford,41.6342,-72.4692
+26040,Southwood Acres,CT,Connecticut,Hartford,41.961000000000006,-72.5719
+26041,Bethel,CT,Connecticut,Fairfield,41.3727,-73.4116
+26042,Stafford Springs,CT,Connecticut,Tolland,41.9595,-72.3105
+26043,Danbury,CT,Connecticut,Fairfield,41.4016,-73.471
+26044,East Hartford,CT,Connecticut,Hartford,41.7634,-72.6152
+26045,East Haven,CT,Connecticut,New Haven,41.2983,-72.8577
+26046,Brooklyn,CT,Connecticut,Windham,41.7898,-71.9542
+26047,Terryville,CT,Connecticut,Litchfield,41.6784,-73.0064
+26048,Woodmont,CT,Connecticut,New Haven,41.2283,-72.993
+26049,Topstone,CT,Connecticut,Fairfield,41.2959,-73.449
+26050,Ansonia,CT,Connecticut,New Haven,41.3443,-73.0689
+26051,Pawcatuck,CT,Connecticut,New London,41.3774,-71.8492
+26052,Rockville,CT,Connecticut,Tolland,41.8667,-72.4528
+26053,Cos Cob,CT,Connecticut,Fairfield,41.0511,-73.5933
+26054,South Coventry,CT,Connecticut,Tolland,41.7695,-72.3064
+26055,North Granby,CT,Connecticut,Hartford,42.0152,-72.844
+26056,Salmon Brook,CT,Connecticut,Hartford,41.9567,-72.7931
+26057,West Hartford,CT,Connecticut,Hartford,41.7669,-72.7536
+26058,West Haven,CT,Connecticut,New Haven,41.2738,-72.9669
+26059,Canaan,CT,Connecticut,Litchfield,42.0347,-73.3323
+26060,Waterford,CT,Connecticut,New London,41.3452,-72.1288
+26061,Lakeville,CT,Connecticut,Litchfield,41.9594,-73.4467
+26062,Sharon,CT,Connecticut,Litchfield,41.8784,-73.472
+26063,East Brooklyn,CT,Connecticut,Windham,41.7948,-71.8992
+26064,Fenwick,CT,Connecticut,Middlesex,41.2711,-72.3546
+26065,Uncasville,CT,Connecticut,New London,41.4345,-72.1098
+26066,Thomaston,CT,Connecticut,Litchfield,41.6733,-73.0798
+26067,Aspetuck,CT,Connecticut,Fairfield,41.2182,-73.321
+26068,Long Hill,CT,Connecticut,New London,41.3536,-72.0517
+26069,Westport,CT,Connecticut,Fairfield,41.1428,-73.3475
+26070,Lyons Plain,CT,Connecticut,Fairfield,41.2251,-73.3462
+26071,Old Mystic,CT,Connecticut,New London,41.3854,-71.985
+26072,Georgetown,CT,Connecticut,Fairfield,41.2494,-73.4343
+26073,Hazardville,CT,Connecticut,Hartford,41.9899,-72.5256
+26074,Somers,CT,Connecticut,Tolland,41.9911,-72.443
+26075,Litchfield,CT,Connecticut,Litchfield,41.7457,-73.1893
+26076,Hartford,CT,Connecticut,Hartford,41.7661,-72.6834
+26077,Sherwood Manor,CT,Connecticut,Hartford,42.0125,-72.566
+26078,Glenville,CT,Connecticut,Fairfield,41.0349,-73.6656
+26079,Glastonbury Center,CT,Connecticut,Hartford,41.7018,-72.6001
+26080,Danielson,CT,Connecticut,Windham,41.8086,-71.8854
+26081,Winsted,CT,Connecticut,Litchfield,41.9267,-73.0675
+26082,Byram,CT,Connecticut,Fairfield,41.0011,-73.6528
+26083,West Simsbury,CT,Connecticut,Hartford,41.8748,-72.8448
+26084,Bristol,CT,Connecticut,Hartford,41.6812,-72.9407
+26085,Derby,CT,Connecticut,New Haven,41.3265,-73.0833
+26086,North Haven,CT,Connecticut,New Haven,41.3818,-72.8573
+26087,Branchville,CT,Connecticut,Fairfield,41.2676,-73.4418
+26088,East Hampton,CT,Connecticut,Middlesex,41.5735,-72.4918
+26089,New Haven,CT,Connecticut,New Haven,41.3112,-72.9245
+26090,Saybrook Manor,CT,Connecticut,Middlesex,41.2825,-72.4063
+26091,Norwich,CT,Connecticut,New London,41.5495,-72.0882
+26092,Mansfield Center,CT,Connecticut,Tolland,41.7619,-72.1944
+26093,Stamford,CT,Connecticut,Fairfield,41.1035,-73.5583
+26094,Weatogue,CT,Connecticut,Hartford,41.8459,-72.8294
+26095,Portland,CT,Connecticut,Middlesex,41.5813,-72.6214
+26096,New Preston,CT,Connecticut,Litchfield,41.6813,-73.3523
+26097,Bridgton,ME,Maine,Cumberland,44.0735,-70.71
+26098,South Windham,ME,Maine,Cumberland,43.738,-70.4236
+26099,Lille,ME,Maine,Aroostook,47.28,-68.1098
+26100,Van Buren,ME,Maine,Aroostook,47.1667,-67.9526
+26101,Rockwood,ME,Maine,Somerset,45.6778,-69.7409
+26102,Olamon,ME,Maine,Penobscot,45.1209,-68.6106
+26103,South Eliot,ME,Maine,York,43.1287,-70.7952
+26104,Presque Isle,ME,Maine,Aroostook,46.6868,-67.9874
+26105,Lisbon Falls,ME,Maine,Androscoggin,44.0086,-70.057
+26106,Stratton,ME,Maine,Franklin,45.1412,-70.4406
+26107,Biddeford,ME,Maine,York,43.4674,-70.4512
+26108,Brunswick,ME,Maine,Cumberland,43.9077,-69.9456
+26109,Port Clyde,ME,Maine,Knox,43.9273,-69.2528
+26110,South Paris,ME,Maine,Oxford,44.218999999999994,-70.5113
+26111,Addison,ME,Maine,Washington,44.6184,-67.7442
+26112,Milford,ME,Maine,Penobscot,44.9518,-68.6334
+26113,Lubec,ME,Maine,Washington,44.855,-66.9898
+26114,South Lagrange,ME,Maine,Penobscot,45.1162,-68.815
+26115,Castine,ME,Maine,Hancock,44.3923,-68.8067
+26116,Falmouth,ME,Maine,Cumberland,43.711999999999996,-70.2344
+26117,Hampden Highlands,ME,Maine,Penobscot,44.7323,-68.8411
+26118,Bar Harbor,ME,Maine,Hancock,44.3816,-68.2114
+26119,West Forks,ME,Maine,Somerset,45.397,-70.0362
+26120,Anson,ME,Maine,Somerset,44.7983,-69.8961
+26121,Mechanic Falls,ME,Maine,Androscoggin,44.1122,-70.3941
+26122,Fort Fairfield,ME,Maine,Aroostook,46.766000000000005,-67.833
+26123,Winterville,ME,Maine,Aroostook,46.9703,-68.5712
+26124,Hampden,ME,Maine,Penobscot,44.7478,-68.836
+26125,Washburn,ME,Maine,Aroostook,46.786,-68.1447
+26126,Woodland,ME,Maine,Washington,45.1597,-67.4124
+26127,Millinocket,ME,Maine,Penobscot,45.6596,-68.6996
+26128,Madawaska,ME,Maine,Aroostook,47.3432,-68.3308
+26129,Skowhegan,ME,Maine,Somerset,44.7735,-69.7124
+26130,Farmingdale,ME,Maine,Kennebec,44.2506,-69.7827
+26131,Gorham,ME,Maine,Cumberland,43.6822,-70.4413
+26132,Topsham,ME,Maine,Sagadahoc,43.9411,-69.9352
+26133,Kennebunkport,ME,Maine,York,43.3598,-70.4632
+26134,Richmond,ME,Maine,Sagadahoc,44.1056,-69.8117
+26135,Dover-Foxcroft,ME,Maine,Piscataquis,45.1936,-69.221
+26136,Dixfield,ME,Maine,Oxford,44.5369,-70.4502
+26137,Littlejohn Island,ME,Maine,Cumberland,43.7599,-70.1284
+26138,Saco,ME,Maine,York,43.538999999999994,-70.4624
+26139,Dickey,ME,Maine,Aroostook,47.1095,-69.0864
+26140,Macwahoc,ME,Maine,Aroostook,45.6284,-68.2628
+26141,Camden,ME,Maine,Knox,44.2132,-69.0675
+26142,Milo,ME,Maine,Piscataquis,45.2461,-68.9751
+26143,Norridgewock,ME,Maine,Somerset,44.711999999999996,-69.7838
+26144,Falmouth Foreside,ME,Maine,Cumberland,43.7348,-70.2152
+26145,Brookton,ME,Maine,Washington,45.5298,-67.7656
+26146,Orono,ME,Maine,Penobscot,44.8811,-68.6792
+26147,Blue Hill,ME,Maine,Hancock,44.4093,-68.5881
+26148,Bar Mills,ME,Maine,York,43.6131,-70.5498
+26149,Standish,ME,Maine,Cumberland,43.7353,-70.5525
+26150,Wilton,ME,Maine,Franklin,44.5961,-70.2372
+26151,Wilsons Mills,ME,Maine,Oxford,44.9381,-71.0354
+26152,Calais,ME,Maine,Washington,45.13399999999999,-67.22399999999999
+26153,Old Town,ME,Maine,Penobscot,44.9491,-68.7249
+26154,Unity,ME,Maine,Waldo,44.6154,-69.3342
+26155,Alfred,ME,Maine,York,43.4767,-70.72
+26156,Sanford,ME,Maine,York,43.4244,-70.7573
+26157,Auburn,ME,Maine,Androscoggin,44.085,-70.2492
+26158,Norway,ME,Maine,Oxford,44.2168,-70.5511
+26159,South Portland,ME,Maine,Cumberland,43.631,-70.2895
+26160,Cape Neddick,ME,Maine,York,43.1706,-70.622
+26161,Waterville,ME,Maine,Kennebec,44.544,-69.6626
+26162,Livermore Falls,ME,Maine,Androscoggin,44.4723,-70.1808
+26163,Mexico,ME,Maine,Oxford,44.555,-70.5364
+26164,Rockland,ME,Maine,Knox,44.1274,-69.1369
+26165,Guilford,ME,Maine,Piscataquis,45.1734,-69.3928
+26166,Saint David,ME,Maine,Aroostook,47.3395,-68.2314
+26167,Pittsfield,ME,Maine,Somerset,44.7717,-69.38
+26168,North Amity,ME,Maine,Aroostook,45.9417,-67.8303
+26169,Kezar Falls,ME,Maine,Oxford,43.8079,-70.889
+26170,Ashville,ME,Maine,Hancock,44.4879,-68.1211
+26171,Long Pond,ME,Maine,Somerset,45.6214,-70.0865
+26172,Chisholm,ME,Maine,Franklin,44.4917,-70.1918
+26173,Winter Harbor,ME,Maine,Hancock,44.3926,-68.0918
+26174,Gray,ME,Maine,Cumberland,43.8864,-70.3241
+26175,Smyrna Mills,ME,Maine,Aroostook,46.1295,-68.1642
+26176,Old Orchard Beach,ME,Maine,York,43.5239,-70.3904
+26177,South Sanford,ME,Maine,York,43.4112,-70.7426
+26178,Oquossoc,ME,Maine,Franklin,44.9664,-70.7737
+26179,South China,ME,Maine,Kennebec,44.3956,-69.5712
+26180,Eagle Lake,ME,Maine,Aroostook,47.0347,-68.5888
+26181,Damariscotta,ME,Maine,Lincoln,44.0232,-69.5216
+26182,Hallowell,ME,Maine,Kennebec,44.2905,-69.8141
+26183,York Harbor,ME,Maine,York,43.1435,-70.649
+26184,Seboeis,ME,Maine,Penobscot,45.3631,-68.7111
+26185,Carrabassett,ME,Maine,Franklin,45.0778,-70.212
+26186,Oxbow,ME,Maine,Aroostook,46.4187,-68.49
+26187,Machias,ME,Maine,Washington,44.7075,-67.4772
+26188,Green Lake,ME,Maine,Hancock,44.6712,-68.5547
+26189,Madison,ME,Maine,Somerset,44.8003,-69.8655
+26190,Clinton,ME,Maine,Kennebec,44.6501,-69.4859
+26191,Winthrop,ME,Maine,Kennebec,44.3129,-69.9649
+26192,Bass Harbor,ME,Maine,Hancock,44.2401,-68.3439
+26193,Bucksport,ME,Maine,Hancock,44.6006,-68.7944
+26194,Sweden,ME,Maine,Aroostook,46.9417,-68.1395
+26195,Brownville Junction,ME,Maine,Piscataquis,45.3501,-69.0523
+26196,North Waterford,ME,Maine,Oxford,44.2317,-70.7687
+26197,Lake Arrowhead,ME,Maine,York,43.6634,-70.7382
+26198,Soldier Pond,ME,Maine,Aroostook,47.1562,-68.5759
+26199,Blaine,ME,Maine,Aroostook,46.498999999999995,-67.8688
+26200,Rumford,ME,Maine,Oxford,44.5502,-70.568
+26201,Dexter,ME,Maine,Penobscot,45.0164,-69.2946
+26202,Belfast,ME,Maine,Waldo,44.428000000000004,-69.0325
+26203,East Millinocket,ME,Maine,Penobscot,45.626000000000005,-68.5741
+26204,Howland,ME,Maine,Penobscot,45.2543,-68.6647
+26205,Steep Falls,ME,Maine,Cumberland,43.7905,-70.6275
+26206,Greenville,ME,Maine,Piscataquis,45.4663,-69.5881
+26207,Bryant Pond,ME,Maine,Oxford,44.3784,-70.6459
+26208,Fairfield,ME,Maine,Somerset,44.5892,-69.6067
+26209,Fryeburg,ME,Maine,Oxford,44.0201,-70.9733
+26210,Scarborough,ME,Maine,Cumberland,43.5983,-70.3351
+26211,Wiscasset,ME,Maine,Lincoln,44.0116,-69.6735
+26212,Kittery Point,ME,Maine,York,43.0883,-70.6988
+26213,Bingham,ME,Maine,Somerset,45.0581,-69.873
+26214,Eastport,ME,Maine,Washington,44.9137,-67.0183
+26215,Caribou,ME,Maine,Aroostook,46.8662,-67.9919
+26216,Gardiner,ME,Maine,Kennebec,44.191,-69.7921
+26217,Cousins Island,ME,Maine,Cumberland,43.7631,-70.1409
+26218,Kokadjo,ME,Maine,Piscataquis,45.6712,-69.447
+26219,East Holden,ME,Maine,Penobscot,44.7376,-68.6331
+26220,Portage,ME,Maine,Aroostook,46.7631,-68.4759
+26221,Southwest Harbor,ME,Maine,Hancock,44.2784,-68.3282
+26222,Kittery,ME,Maine,York,43.0918,-70.7374
+26223,Springvale,ME,Maine,York,43.4667,-70.7937
+26224,West Kennebunk,ME,Maine,York,43.4142,-70.581
+26225,Lincoln,ME,Maine,Penobscot,45.3627,-68.4996
+26226,Houlton,ME,Maine,Aroostook,46.1215,-67.8322
+26227,Little Falls,ME,Maine,Cumberland,43.7312,-70.4301
+26228,Newcastle,ME,Maine,Lincoln,44.0426,-69.5361
+26229,Yarmouth,ME,Maine,Cumberland,43.8017,-70.1875
+26230,Norcross,ME,Maine,Penobscot,45.6295,-68.8025
+26231,Westbrook,ME,Maine,Cumberland,43.6955,-70.3538
+26232,Searsport,ME,Maine,Waldo,44.4675,-68.9191
+26233,Mars Hill,ME,Maine,Aroostook,46.5211,-67.8717
+26234,Lewiston,ME,Maine,Androscoggin,44.0915,-70.1681
+26235,Bowdoinham,ME,Maine,Sagadahoc,44.0212,-69.9012
+26236,Shirley Mills,ME,Maine,Piscataquis,45.3656,-69.6181
+26237,Hinckley,ME,Maine,Somerset,44.6856,-69.6325
+26238,Bath,ME,Maine,Sagadahoc,43.9346,-69.8346
+26239,Kennebunk,ME,Maine,York,43.3841,-70.5442
+26240,Salem,ME,Maine,Franklin,44.9006,-70.2781
+26241,Winslow,ME,Maine,Kennebec,44.5277,-69.5768
+26242,Wytopitlock,ME,Maine,Aroostook,45.6406,-68.0756
+26243,North Windham,ME,Maine,Cumberland,43.8238,-70.4288
+26244,Winterport,ME,Maine,Waldo,44.6453,-68.8561
+26245,Farmington,ME,Maine,Franklin,44.6681,-70.1459
+26246,Thomaston,ME,Maine,Knox,44.0803,-69.1807
+26247,Somesville,ME,Maine,Hancock,44.3623,-68.3342
+26248,Naples,ME,Maine,Cumberland,43.9623,-70.6025
+26249,Hartland,ME,Maine,Somerset,44.8815,-69.4585
+26250,Fort Kent,ME,Maine,Aroostook,47.2535,-68.5893
+26251,Exeter Corners,ME,Maine,Penobscot,44.9848,-69.1453
+26252,Casco,ME,Maine,Cumberland,43.9966,-70.5293
+26253,Atlantic,ME,Maine,Hancock,44.1717,-68.4242
+26254,Oxford,ME,Maine,Oxford,44.1384,-70.5092
+26255,Berwick,ME,Maine,York,43.2686,-70.8623
+26256,Mapleton,ME,Maine,Aroostook,46.6808,-68.1513
+26257,Freeport,ME,Maine,Cumberland,43.857,-70.1026
+26258,Waldoboro,ME,Maine,Lincoln,44.0909,-69.3753
+26259,Cumberland Center,ME,Maine,Cumberland,43.7982,-70.2541
+26260,Bangor,ME,Maine,Penobscot,44.8322,-68.7906
+26261,Ashland,ME,Maine,Aroostook,46.6241,-68.3964
+26262,Augusta,ME,Maine,Kennebec,44.3341,-69.7319
+26263,Sherman Station,ME,Maine,Penobscot,45.8992,-68.4295
+26264,Limestone,ME,Maine,Aroostook,46.9112,-67.8308
+26265,Boothbay Harbor,ME,Maine,Lincoln,43.8556,-69.6233
+26266,Brewer,ME,Maine,Penobscot,44.7835,-68.7352
+26267,West Seboeis,ME,Maine,Penobscot,45.5292,-68.8787
+26268,North Berwick,ME,Maine,York,43.302,-70.7324
+26269,Newport,ME,Maine,Penobscot,44.8378,-69.2616
+26270,Portland,ME,Maine,Cumberland,43.6772,-70.2713
+26271,Oakland,ME,Maine,Kennebec,44.5499,-69.7078
+26272,Randolph,ME,Maine,Kennebec,44.2347,-69.7506
+26273,Ellsworth,ME,Maine,Hancock,44.5847,-68.4875
+26952,Pepperell,MA,Massachusetts,Middlesex,42.6695,-71.5905
+26953,Raynham Center,MA,Massachusetts,Bristol,41.9327,-71.0431
+26954,Baldwinville,MA,Massachusetts,Worcester,42.6049,-72.0771
+26955,Woods Hole,MA,Massachusetts,Barnstable,41.5303,-70.6614
+26956,Upton,MA,Massachusetts,Worcester,42.1764,-71.6141
+26957,North Sudbury,MA,Massachusetts,Middlesex,42.4093,-71.4045
+26958,Arlington,MA,Massachusetts,Middlesex,42.4186,-71.1638
+26959,Tyngsboro,MA,Massachusetts,Middlesex,42.6768,-71.4245
+26960,Devens,MA,Massachusetts,Worcester,42.5438,-71.6147
+26961,White Horse Beach,MA,Massachusetts,Plymouth,41.9309,-70.5578
+26962,Walpole,MA,Massachusetts,Norfolk,42.1371,-71.2439
+26963,Barre,MA,Massachusetts,Worcester,42.423,-72.1064
+26964,North Amherst,MA,Massachusetts,Hampshire,42.4073,-72.5227
+26965,Sturbridge,MA,Massachusetts,Worcester,42.1001,-72.0635
+26966,Minot,MA,Massachusetts,Plymouth,42.2404,-70.762
+26967,Boxford,MA,Massachusetts,Essex,42.6695,-70.9831
+26968,Brookfield,MA,Massachusetts,Worcester,42.215,-72.1027
+26969,Shelburne Falls,MA,Massachusetts,Franklin,42.6063,-72.7434
+26970,West Springfield,MA,Massachusetts,Hampden,42.107,-72.6204
+26971,Milford,MA,Massachusetts,Worcester,42.1477,-71.5167
+26972,Sandwich,MA,Massachusetts,Barnstable,41.7573,-70.4998
+26973,South Westport,MA,Massachusetts,Bristol,41.5709,-71.0578
+26974,North Lakeville,MA,Massachusetts,Plymouth,41.8619,-70.9411
+26975,White Island Shores,MA,Massachusetts,Plymouth,41.7934,-70.6389
+26976,Hull,MA,Massachusetts,Plymouth,42.2863,-70.8831
+26977,Falmouth,MA,Massachusetts,Barnstable,41.5516,-70.6089
+26978,Marlborough,MA,Massachusetts,Middlesex,42.3494,-71.5468
+26979,Ocean Grove,MA,Massachusetts,Bristol,41.7281,-71.2098
+26980,Belchertown,MA,Massachusetts,Hampshire,42.2741,-72.4051
+26981,Seconsett Island,MA,Massachusetts,Barnstable,41.5662,-70.5123
+26982,Athol,MA,Massachusetts,Worcester,42.5936,-72.2302
+26983,Brookline,MA,Massachusetts,Norfolk,42.3243,-71.1408
+26984,Quincy,MA,Massachusetts,Norfolk,42.2516,-71.0183
+26985,Westborough,MA,Massachusetts,Worcester,42.2672,-71.6168
+26986,West Hanover,MA,Massachusetts,Plymouth,42.1195,-70.8828
+26987,North Eastham,MA,Massachusetts,Barnstable,41.8538,-69.9968
+26988,Yarmouth Port,MA,Massachusetts,Barnstable,41.7099,-70.2257
+26989,Shirley,MA,Massachusetts,Middlesex,42.5397,-71.6588
+26990,Monomoscoy Island,MA,Massachusetts,Barnstable,41.5712,-70.5026
+26991,Glenridge,MA,Massachusetts,Norfolk,42.2459,-71.3214
+26992,Chicopee,MA,Massachusetts,Hampden,42.1764,-72.5719
+26993,North Chelmsford,MA,Massachusetts,Middlesex,42.638999999999996,-71.3828
+26994,Liberty Plain,MA,Massachusetts,Plymouth,42.18899999999999,-70.8828
+26995,Holland,MA,Massachusetts,Hampden,42.0546,-72.1531
+26996,Marshfield Hills,MA,Massachusetts,Plymouth,42.1487,-70.7315
+26997,Beechwood,MA,Massachusetts,Norfolk,42.2098,-70.8189
+26998,Petersham,MA,Massachusetts,Worcester,42.4911,-72.1873
+26999,Lexington,MA,Massachusetts,Middlesex,42.4456,-71.2307
+27000,Swampscott,MA,Massachusetts,Essex,42.4758,-70.9067
+27001,Dedham,MA,Massachusetts,Norfolk,42.2467,-71.1778
+27002,Bellingham,MA,Massachusetts,Norfolk,42.093999999999994,-71.476
+27003,Northfield,MA,Massachusetts,Franklin,42.7068,-72.4357
+27004,Buzzards Bay,MA,Massachusetts,Barnstable,41.755,-70.6129
+27005,Webster,MA,Massachusetts,Worcester,42.0447,-71.8748
+27006,Waltham,MA,Massachusetts,Middlesex,42.3889,-71.2423
+27007,Medford,MA,Massachusetts,Middlesex,42.4234,-71.1087
+27008,Gloucester,MA,Massachusetts,Essex,42.626000000000005,-70.6896
+27009,Provincetown,MA,Massachusetts,Barnstable,42.0528,-70.1869
+27010,Boston,MA,Massachusetts,Suffolk,42.3189,-71.0838
+27011,West Yarmouth,MA,Massachusetts,Barnstable,41.6496,-70.2487
+27012,Southville,MA,Massachusetts,Worcester,42.2668,-71.5365
+27013,Duxbury,MA,Massachusetts,Plymouth,42.0434,-70.6757
+27014,Topsfield,MA,Massachusetts,Essex,42.6393,-70.9551
+27015,Stoneham,MA,Massachusetts,Middlesex,42.4741,-71.0972
+27016,Danvers,MA,Massachusetts,Essex,42.574,-70.9495
+27017,Holbrook,MA,Massachusetts,Norfolk,42.147,-71.0057
+27018,Groton,MA,Massachusetts,Middlesex,42.6084,-71.5707
+27019,Belmont,MA,Massachusetts,Middlesex,42.396,-71.1796
+27020,Andover,MA,Massachusetts,Essex,42.6554,-71.1418
+27021,Turners Falls,MA,Massachusetts,Franklin,42.5975,-72.5573
+27022,Popponesset Island,MA,Massachusetts,Barnstable,41.5853,-70.4587
+27023,Haverhill,MA,Massachusetts,Essex,42.7838,-71.0871
+27024,Hayden Row,MA,Massachusetts,Middlesex,42.2043,-71.5106
+27025,Rockport,MA,Massachusetts,Essex,42.645,-70.616
+27026,North Falmouth,MA,Massachusetts,Barnstable,41.6395,-70.626
+27027,West Wareham,MA,Massachusetts,Plymouth,41.79,-70.755
+27028,Milton,MA,Massachusetts,Norfolk,42.2412,-71.0844
+27029,West Dennis,MA,Massachusetts,Barnstable,41.6666,-70.1656
+27030,Warren,MA,Massachusetts,Worcester,42.2154,-72.1887
+27031,Newton,MA,Massachusetts,Middlesex,42.3317,-71.2085
+27032,East Walpole,MA,Massachusetts,Norfolk,42.162,-71.2106
+27033,Winchester,MA,Massachusetts,Middlesex,42.4518,-71.1463
+27034,Longmeadow,MA,Massachusetts,Hampden,42.0475,-72.5719
+27035,Standish,MA,Massachusetts,Plymouth,42.107,-70.755
+27036,Ocean Bluff,MA,Massachusetts,Plymouth,42.0973,-70.6536
+27037,Bridgewater,MA,Massachusetts,Plymouth,41.9888,-70.9717
+27038,Highland Lake,MA,Massachusetts,Norfolk,42.1265,-71.3098
+27039,Onset,MA,Massachusetts,Plymouth,41.7481,-70.6669
+27040,Pine Rest,MA,Massachusetts,Middlesex,42.388999999999996,-71.437
+27041,Williamstown,MA,Massachusetts,Berkshire,42.7087,-73.2012
+27042,West Brookfield,MA,Massachusetts,Worcester,42.2388,-72.1455
+27043,Burlington,MA,Massachusetts,Middlesex,42.5022,-71.2027
+27044,Ayer,MA,Massachusetts,Middlesex,42.5613,-71.5848
+27045,Orange,MA,Massachusetts,Franklin,42.5972,-72.3032
+27046,Somerset,MA,Massachusetts,Bristol,41.7404,-71.1612
+27047,Reading,MA,Massachusetts,Middlesex,42.5351,-71.1056
+27048,Townsend,MA,Massachusetts,Middlesex,42.6717,-71.7041
+27049,Seabrook,MA,Massachusetts,Barnstable,41.5831,-70.4991
+27050,Great Barrington,MA,Massachusetts,Berkshire,42.1935,-73.3621
+27051,South Yarmouth,MA,Massachusetts,Barnstable,41.6692,-70.2005
+27052,Bondsville,MA,Massachusetts,Hampden,42.2126,-72.3454
+27053,Lee,MA,Massachusetts,Berkshire,42.3069,-73.2504
+27054,Pittsfield,MA,Massachusetts,Berkshire,42.4517,-73.2605
+27055,South Dartmouth,MA,Massachusetts,Bristol,41.5918,-70.9411
+27056,West Boxford,MA,Massachusetts,Essex,42.707,-71.0639
+27057,Everett,MA,Massachusetts,Middlesex,42.4064,-71.0544
+27058,Sagamore,MA,Massachusetts,Barnstable,41.7842,-70.5332
+27059,South Deerfield,MA,Massachusetts,Franklin,42.4795,-72.5947
+27060,Easthampton,MA,Massachusetts,Hampshire,42.2668,-72.669
+27061,Green Harbor,MA,Massachusetts,Plymouth,42.0779,-70.6495
+27062,Salem,MA,Massachusetts,Essex,42.513000000000005,-70.9021
+27063,Hyannis,MA,Massachusetts,Barnstable,41.6529,-70.2828
+27064,Brewster,MA,Massachusetts,Barnstable,41.7618,-70.081
+27065,Cochituate,MA,Massachusetts,Middlesex,42.32899999999999,-71.3576
+27066,Ware,MA,Massachusetts,Hampshire,42.2549,-72.24600000000001
+27067,Brockton,MA,Massachusetts,Plymouth,42.0821,-71.0242
+27068,Vineyard Haven,MA,Massachusetts,Dukes,41.4565,-70.6069
+27069,Pigeon Cove,MA,Massachusetts,Essex,42.6737,-70.6328
+27070,Granby,MA,Massachusetts,Hampshire,42.2633,-72.5243
+27071,Barnstable,MA,Massachusetts,Barnstable,41.7001,-70.2995
+27072,Manchester-by-the-Sea,MA,Massachusetts,Essex,42.5779,-70.7689
+27073,Bliss Corner,MA,Massachusetts,Bristol,41.6054,-70.9421
+27074,Harwich Port,MA,Massachusetts,Barnstable,41.6723,-70.0641
+27075,Russell,MA,Massachusetts,Hampden,42.1965,-72.8642
+27076,Accord,MA,Massachusetts,Plymouth,42.1745,-70.8837
+27077,North Adams,MA,Massachusetts,Berkshire,42.6844,-73.1166
+27078,South Acton,MA,Massachusetts,Middlesex,42.4584,-71.4537
+27079,Watertown,MA,Massachusetts,Middlesex,42.37,-71.1775
+27080,Lynnfield,MA,Massachusetts,Essex,42.5356,-71.0382
+27081,Cheshire,MA,Massachusetts,Berkshire,42.5612,-73.1624
+27082,Chester,MA,Massachusetts,Hampden,42.2828,-72.98100000000001
+27083,Littleton Common,MA,Massachusetts,Middlesex,42.5352,-71.4727
+27084,Dennis Port,MA,Massachusetts,Barnstable,41.6677,-70.1358
+27085,West Acton,MA,Massachusetts,Middlesex,42.4751,-71.4745
+27086,Westfield,MA,Massachusetts,Hampden,42.1382,-72.7561
+27087,North Cohasset,MA,Massachusetts,Norfolk,42.2584,-70.8425
+27088,Spencer,MA,Massachusetts,Worcester,42.2451,-71.9924
+27089,North Marshfield,MA,Massachusetts,Plymouth,42.1432,-70.7703
+27090,South Walpole,MA,Massachusetts,Norfolk,42.1043,-71.2612
+27091,South Dennis,MA,Massachusetts,Barnstable,41.7051,-70.1537
+27092,Cambridge,MA,Massachusetts,Middlesex,42.3758,-71.1184
+27093,Clinton,MA,Massachusetts,Worcester,42.4182,-71.6855
+27094,Housatonic,MA,Massachusetts,Berkshire,42.2487,-73.3626
+27095,Cotuit,MA,Massachusetts,Barnstable,41.6168,-70.437
+27096,North Brookfield,MA,Massachusetts,Worcester,42.2711,-72.0842
+27097,Somerville,MA,Massachusetts,Middlesex,42.3908,-71.1013
+27098,New Seabury,MA,Massachusetts,Barnstable,41.5689,-70.4811
+27099,Northampton,MA,Massachusetts,Hampshire,42.3266,-72.6745
+27100,Hatfield,MA,Massachusetts,Hampshire,42.372,-72.6068
+27101,South Ashburnham,MA,Massachusetts,Worcester,42.6138,-71.9384
+27102,Methuen,MA,Massachusetts,Essex,42.733999999999995,-71.1889
+27103,Holyoke,MA,Massachusetts,Hampden,42.2126,-72.6411
+27104,Silver Lake,MA,Massachusetts,Middlesex,42.5695,-71.1912
+27105,North Pembroke,MA,Massachusetts,Plymouth,42.0989,-70.7821
+27106,Brookville,MA,Massachusetts,Norfolk,42.1251,-71.0092
+27107,Framingham,MA,Massachusetts,Middlesex,42.3085,-71.4367
+27108,Hanover Center,MA,Massachusetts,Plymouth,42.1168,-70.8412
+27109,Huntington,MA,Massachusetts,Hampshire,42.2408,-72.8822
+27110,Wellesley,MA,Massachusetts,Norfolk,42.3043,-71.2855
+27111,Orleans,MA,Massachusetts,Barnstable,41.7899,-70.0009
+27112,Essex,MA,Massachusetts,Essex,42.6333,-70.7743
+27113,Lenox,MA,Massachusetts,Berkshire,42.3588,-73.2855
+27114,Forestdale,MA,Massachusetts,Barnstable,41.6846,-70.5081
+27115,Sharon,MA,Massachusetts,Norfolk,42.1174,-71.1835
+27116,South Amherst,MA,Massachusetts,Hampshire,42.339,-72.5194
+27117,Pine Lake,MA,Massachusetts,Middlesex,42.3959,-71.4537
+27118,Foxborough,MA,Massachusetts,Norfolk,42.0644,-71.2482
+27119,Wamesit,MA,Massachusetts,Middlesex,42.6251,-71.2634
+27120,Shawsheen Village,MA,Massachusetts,Essex,42.6723,-71.1439
+27121,Newburyport,MA,Massachusetts,Essex,42.8124,-70.8879
+27122,North Attleboro,MA,Massachusetts,Bristol,41.9834,-71.3328
+27123,Chatham,MA,Massachusetts,Barnstable,41.6764,-69.9632
+27124,Ipswich,MA,Massachusetts,Essex,42.6792,-70.8307
+27125,East Harwich,MA,Massachusetts,Barnstable,41.7081,-70.0339
+27126,Agawam,MA,Massachusetts,Hampden,42.0695,-72.6148
+27127,Marshfield Center,MA,Massachusetts,Plymouth,42.1168,-70.7162
+27128,Rexhame,MA,Massachusetts,Plymouth,42.114,-70.6745
+27129,Marstons Mills,MA,Massachusetts,Barnstable,41.6562,-70.4161
+27130,Fitchburg,MA,Massachusetts,Worcester,42.5912,-71.8156
+27131,North Scituate,MA,Massachusetts,Plymouth,42.2121,-70.7652
+27132,Deerfield,MA,Massachusetts,Franklin,42.5463,-72.6024
+27133,Lawrence,MA,Massachusetts,Essex,42.7003,-71.1626
+27134,Fayville,MA,Massachusetts,Worcester,42.2945,-71.5056
+27135,Nahant,MA,Massachusetts,Essex,42.4293,-70.92699999999999
+27136,Revere,MA,Massachusetts,Suffolk,42.4188,-71.00399999999999
+27137,Abington,MA,Massachusetts,Plymouth,42.1181,-70.959
+27138,East Brookfield,MA,Massachusetts,Worcester,42.2304,-72.0474
+27139,Lunenburg,MA,Massachusetts,Worcester,42.5934,-71.7269
+27140,Rowley,MA,Massachusetts,Essex,42.7186,-70.8749
+27141,Hanson,MA,Massachusetts,Plymouth,42.0649,-70.8521
+27142,Saugus,MA,Massachusetts,Essex,42.468,-71.0145
+27143,Dover,MA,Massachusetts,Norfolk,42.2475,-71.2741
+27144,Bourne,MA,Massachusetts,Barnstable,41.7323,-70.6154
+27145,Needham,MA,Massachusetts,Norfolk,42.2814,-71.241
+27146,North Truro,MA,Massachusetts,Barnstable,42.0334,-70.0953
+27147,Greenbush,MA,Massachusetts,Plymouth,42.1793,-70.7495
+27148,New Bedford,MA,Massachusetts,Bristol,41.6697,-70.9428
+27149,Adams,MA,Massachusetts,Berkshire,42.6277,-73.1187
+27150,East Falmouth,MA,Massachusetts,Barnstable,41.5707,-70.5556
+27151,Wilbraham,MA,Massachusetts,Hampden,42.1341,-72.4345
+27152,North Plymouth,MA,Massachusetts,Plymouth,41.9729,-70.6882
+27153,West Falmouth,MA,Massachusetts,Barnstable,41.6012,-70.6364
+27154,North Wilmington,MA,Massachusetts,Middlesex,42.5695,-71.1564
+27155,Franklin,MA,Massachusetts,Norfolk,42.0834,-71.3967
+27156,Edgartown,MA,Massachusetts,Dukes,41.3904,-70.51899999999999
+27157,Beverly,MA,Massachusetts,Essex,42.5681,-70.8627
+27158,Rutland,MA,Massachusetts,Worcester,42.3645,-71.9563
+27159,Scituate,MA,Massachusetts,Plymouth,42.1867,-70.7355
+27160,Woburn,MA,Massachusetts,Middlesex,42.4868,-71.1543
+27161,Chelsea,MA,Massachusetts,Suffolk,42.3959,-71.0325
+27162,Siasconset,MA,Massachusetts,Nantucket,41.2636,-69.9718
+27163,North Bellingham,MA,Massachusetts,Norfolk,42.1209,-71.4556
+27164,East Dennis,MA,Massachusetts,Barnstable,41.7392,-70.1576
+27165,Woodville,MA,Massachusetts,Middlesex,42.2376,-71.562
+27166,East Sandwich,MA,Massachusetts,Barnstable,41.7365,-70.4341
+27167,Hingham,MA,Massachusetts,Plymouth,42.2366,-70.8879
+27168,North Hanover,MA,Massachusetts,Plymouth,42.1459,-70.8675
+27169,Humarock,MA,Massachusetts,Plymouth,42.1362,-70.69
+27170,Worcester,MA,Massachusetts,Worcester,42.2705,-71.8079
+27171,Egypt,MA,Massachusetts,Plymouth,42.2126,-70.7584
+27172,Pocasset,MA,Massachusetts,Barnstable,41.6877,-70.6202
+27173,Assinippi,MA,Massachusetts,Plymouth,42.1584,-70.8509
+27174,Caryville,MA,Massachusetts,Norfolk,42.1334,-71.4478
+27175,West Chatham,MA,Massachusetts,Barnstable,41.6804,-69.9918
+27176,Melrose,MA,Massachusetts,Middlesex,42.4556,-71.059
+27177,Centerville,MA,Massachusetts,Barnstable,41.6487,-70.3481
+27178,Forge Village,MA,Massachusetts,Middlesex,42.5801,-71.487
+27179,Nutting Lake,MA,Massachusetts,Middlesex,42.5379,-71.2689
+27180,Hopedale,MA,Massachusetts,Worcester,42.1279,-71.541
+27181,Popponesset,MA,Massachusetts,Barnstable,41.573,-70.4644
+27182,Nabnasset,MA,Massachusetts,Middlesex,42.6126,-71.4203
+27183,Maynard,MA,Massachusetts,Middlesex,42.4264,-71.4561
+27184,Islington,MA,Massachusetts,Norfolk,42.2237,-71.1898
+27185,West Medway,MA,Massachusetts,Norfolk,42.1418,-71.4245
+27186,Monument Beach,MA,Massachusetts,Barnstable,41.7191,-70.6061
+27187,Hopkinton,MA,Massachusetts,Middlesex,42.2236,-71.5228
+27188,Hudson,MA,Massachusetts,Middlesex,42.3918,-71.5645
+27189,Kingston,MA,Massachusetts,Plymouth,41.9965,-70.73100000000001
+27190,Shore Acres,MA,Massachusetts,Plymouth,42.2145,-70.7384
+27191,Peabody,MA,Massachusetts,Essex,42.5335,-70.9724
+27192,Rockville,MA,Massachusetts,Norfolk,42.1407,-71.3592
+27193,Millers Falls,MA,Massachusetts,Franklin,42.5792,-72.4925
+27194,Northborough,MA,Massachusetts,Worcester,42.3111,-71.645
+27195,Springfield,MA,Massachusetts,Hampden,42.1155,-72.5395
+27196,Norwood,MA,Massachusetts,Norfolk,42.1861,-71.1949
+27197,Lowell,MA,Massachusetts,Middlesex,42.6389,-71.3217
+27198,Winchendon,MA,Massachusetts,Worcester,42.681000000000004,-72.0436
+27199,Leominster,MA,Massachusetts,Worcester,42.5209,-71.7717
+27200,Marshfield,MA,Massachusetts,Plymouth,42.0939,-70.7049
+27201,Harding,MA,Massachusetts,Norfolk,42.2037,-71.3239
+27202,Brant Rock,MA,Massachusetts,Plymouth,42.0862,-70.6411
+27203,Gardner,MA,Massachusetts,Worcester,42.5845,-71.9868
+27204,Smith Mills,MA,Massachusetts,Bristol,41.6432,-70.992
+27205,Fiskdale,MA,Massachusetts,Worcester,42.1227,-72.1087
+27206,South Chelmsford,MA,Massachusetts,Middlesex,42.5709,-71.3759
+27207,Ballardvale,MA,Massachusetts,Essex,42.6251,-71.1606
+27208,Oxford,MA,Massachusetts,Worcester,42.1162,-71.8705
+27209,Weweantic,MA,Massachusetts,Plymouth,41.7398,-70.7351
+27210,North Westport,MA,Massachusetts,Bristol,41.653999999999996,-71.0927
+27211,South Lancaster,MA,Massachusetts,Worcester,42.4373,-71.692
+27212,Malden,MA,Massachusetts,Middlesex,42.4305,-71.0576
+27213,Whitinsville,MA,Massachusetts,Worcester,42.1145,-71.6688
+27214,Lynn,MA,Massachusetts,Essex,42.4778,-70.9662
+27215,East Douglas,MA,Massachusetts,Worcester,42.0779,-71.7121
+27216,North Tewksbury,MA,Massachusetts,Middlesex,42.6345,-71.2459
+27217,Attleboro,MA,Massachusetts,Bristol,41.9311,-71.295
+27218,North Abington,MA,Massachusetts,Plymouth,42.1293,-70.9495
+27219,Wareham Center,MA,Massachusetts,Plymouth,41.751000000000005,-70.7198
+27220,Still River,MA,Massachusetts,Worcester,42.4918,-71.6176
+27221,Wilmington,MA,Massachusetts,Middlesex,42.5609,-71.1654
+27222,Medfield,MA,Massachusetts,Norfolk,42.187,-71.3032
+27223,Wakefield,MA,Massachusetts,Middlesex,42.5035,-71.0657
+27224,Plymouth,MA,Massachusetts,Plymouth,41.9539,-70.6693
+27225,Amherst Center,MA,Massachusetts,Hampshire,42.3757,-72.5188
+27226,River Pines,MA,Massachusetts,Middlesex,42.56399999999999,-71.2884
+27227,Mashpee Neck,MA,Massachusetts,Barnstable,41.6118,-70.4667
+27228,Black Rock,MA,Massachusetts,Norfolk,42.2437,-70.8287
+27229,Osterville,MA,Massachusetts,Barnstable,41.6284,-70.387
+27230,Madaket,MA,Massachusetts,Nantucket,41.2826,-70.1855
+27231,Blandford,MA,Massachusetts,Hampden,42.178000000000004,-72.9241
+27232,West Barnstable,MA,Massachusetts,Barnstable,41.7057,-70.3745
+27233,North Seekonk,MA,Massachusetts,Bristol,41.8882,-71.3297
+27234,Fall River,MA,Massachusetts,Bristol,41.7136,-71.1014
+27235,Taunton,MA,Massachusetts,Bristol,41.9036,-71.0943
+27236,Randolph,MA,Massachusetts,Norfolk,42.1779,-71.0539
+27237,Gleasondale,MA,Massachusetts,Middlesex,42.4062,-71.5267
+27238,Marblehead,MA,Massachusetts,Essex,42.4991,-70.8637
+27239,Teaticket,MA,Massachusetts,Barnstable,41.5624,-70.5858
+27240,West Upton,MA,Massachusetts,Worcester,42.1695,-71.6203
+27241,Graniteville,MA,Massachusetts,Middlesex,42.5959,-71.462
+27242,South Duxbury,MA,Massachusetts,Plymouth,42.0203,-70.6913
+27243,Kent Park,MA,Massachusetts,Plymouth,42.1084,-70.6898
+27244,Cordaville,MA,Massachusetts,Worcester,42.2727,-71.5221
+27245,Nantucket,MA,Massachusetts,Nantucket,41.2723,-70.0947
+27246,Salisbury,MA,Massachusetts,Essex,42.8334,-70.8416
+27247,Pinehurst,MA,Massachusetts,Middlesex,42.5334,-71.234
+27248,Dennis,MA,Massachusetts,Barnstable,41.733000000000004,-70.1988
+27249,East Pepperell,MA,Massachusetts,Middlesex,42.6654,-71.5635
+27250,West Concord,MA,Massachusetts,Middlesex,42.4518,-71.4035
+27251,Clicquot,MA,Massachusetts,Norfolk,42.1715,-71.3523
+27252,North Billerica,MA,Massachusetts,Middlesex,42.5834,-71.2845
+32256,Manville,RI,Rhode Island,Providence,41.9698,-71.4737
+32257,Harrisville,RI,Rhode Island,Providence,41.9687,-71.6767
+32258,Hopkinton,RI,Rhode Island,Washington,41.4622,-71.7783
+32259,Wyoming,RI,Rhode Island,Washington,41.5143,-71.6902
+32260,Central Falls,RI,Rhode Island,Providence,41.89,-71.3933
+32261,Greenville,RI,Rhode Island,Providence,41.8799,-71.555
+32262,Providence,RI,Rhode Island,Providence,41.8229,-71.4186
+32263,Harmony,RI,Rhode Island,Providence,41.8965,-71.6053
+32264,Warwick,RI,Rhode Island,Kent,41.7061,-71.4334
+32265,Saunderstown,RI,Rhode Island,Washington,41.5079,-71.4245
+32266,Carolina,RI,Rhode Island,Washington,41.4625,-71.6585
+32267,Cranston,RI,Rhode Island,Providence,41.7658,-71.4858
+32268,East Providence,RI,Rhode Island,Providence,41.8064,-71.3565
+32269,Cumberland Hill,RI,Rhode Island,Providence,41.9736,-71.4605
+32270,Esmond,RI,Rhode Island,Providence,41.8723,-71.4945
+32271,Misquamicut,RI,Rhode Island,Washington,41.3237,-71.822
+32272,Valley Falls,RI,Rhode Island,Providence,41.9234,-71.3923
+32273,Coventry,RI,Rhode Island,Kent,41.7001,-71.6828
+32274,Charlestown,RI,Rhode Island,Washington,41.3783,-71.6285
+32275,Bradford,RI,Rhode Island,Washington,41.3944,-71.7541
+32276,Clayville,RI,Rhode Island,Providence,41.7734,-71.6854
+32277,Union Village,RI,Rhode Island,Providence,41.9912,-71.5392
+32278,Chepachet,RI,Rhode Island,Providence,41.9105,-71.6653
+32279,Wakefield,RI,Rhode Island,Washington,41.4373,-71.5014
+32280,Greene,RI,Rhode Island,Kent,41.6988,-71.7339
+32281,Ashaway,RI,Rhode Island,Washington,41.4259,-71.7852
+32282,North Foster,RI,Rhode Island,Providence,41.8315,-71.7506
+32283,Narragansett Pier,RI,Rhode Island,Washington,41.428000000000004,-71.467
+32284,Newport,RI,Rhode Island,Newport,41.4803,-71.3205
+32285,Pascoag,RI,Rhode Island,Providence,41.9519,-71.704
+32286,Hope Valley,RI,Rhode Island,Washington,41.5151,-71.72
+32287,Melville,RI,Rhode Island,Newport,41.5587,-71.2953
+32288,Weekapaug,RI,Rhode Island,Washington,41.3359,-71.7633
+32289,Westerly,RI,Rhode Island,Washington,41.3723,-71.8069
+32290,Quonochontaug,RI,Rhode Island,Washington,41.3447,-71.7061
+32291,Tiverton,RI,Rhode Island,Newport,41.6471,-71.1971
+32292,West Kingston,RI,Rhode Island,Washington,41.4832,-71.5514
+32293,Kingston,RI,Rhode Island,Washington,41.4738,-71.5236
+32294,Washington,RI,Rhode Island,Kent,41.6884,-71.5667
+32295,Belleville,RI,Rhode Island,Washington,41.553999999999995,-71.4687
+32296,Woonsocket,RI,Rhode Island,Providence,42.001000000000005,-71.4993
+32297,Centerdale,RI,Rhode Island,Providence,41.8565,-71.4787
+32298,Watch Hill,RI,Rhode Island,Washington,41.3157,-71.8487
+32299,Foster Center,RI,Rhode Island,Providence,41.7898,-71.7328
+32300,Georgiaville,RI,Rhode Island,Providence,41.887,-71.5084
+32301,Pawtucket,RI,Rhode Island,Providence,41.8743,-71.3744

@@ -1,0 +1,21 @@
+Alright by now you've seen the two files uploaded along with this one, USC.csv and USCFinal.csv.  Here's the lowdown;
+
+USC.csv is ALL cities, including those in Puerto Rico and the Virgin Islands
+USCFinal.csv excludes these territories.  Simple as that.  
+
+Ordinarily I would just exclude PR and VI out of hand, but it occured to me that those cities are in Hurricane territory, and they might yeild some data.  Overall I think including them will be a little ambitious.
+
+
+
+Thoughts for using this data: 
+
+1. The simple move is to take the df['city'] column, convert it's values to a list, and then search for those terms along with terms that coincide with blackouts / power outages.
+2. If we're feeling fancy (I am, and I will do this shortly) we can put all this into a dictionery that is searchable from state down to zip code levels, nested by geography (state>city>zip)
+3. If we include these terms as a condition for a tweet to be scraped up, we will limit our data to self-selected Tweets that willingly geo-identify themselves, which will be very helpful.
+
+Issues that come to mind:
+1. Many US cities share names - Boston MA and Boston OR come to mind
+    a. To counteract this, we can pretty easily stratify our tweets by the time zone they were posted in - a tracked stat in Twitter json.  This would let us bin cities by time zone, so we could tell the difference.  
+    
+Moving forward: 
+I suggest that we pick some sample cities and see how we do with that, before we try to run all cities everywhere.  I liked Boom's suggestion to pick a region (eg New England) and work on that first.  For now let's just see how all this runs on NY State, then expand if we have time.  First priority is a minimum viable product!
